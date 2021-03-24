@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\ModularSensors"
+		},
+		{
+			"name": "gill_logger_gprsbee",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
